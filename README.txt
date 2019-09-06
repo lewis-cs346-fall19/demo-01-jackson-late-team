@@ -1,0 +1,1 @@
+Nothing special here, didn't have time to figure out how threading worked in python as I remember that being a nightmare in Java. It works very basically, with the server being run first, then the client, sending and reciving messages of just numbers and where they got the messages from
